@@ -1,0 +1,10 @@
+#buttons {
+    align-self: end;
+
+}
+#create {
+    margin: 5px;
+}
+.red {
+    text-decoration-line: line-through;
+}
